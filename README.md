@@ -1,1 +1,1 @@
-# coinjoin_mappings
+# coinjoin-mappings
